@@ -1,0 +1,12 @@
+*.pyc
+*.mo
+.idea
+.tx
+!.gitattributes
+
+# Sphinx build files
+_build/
+
+# Dependencies
+odoo
+env
